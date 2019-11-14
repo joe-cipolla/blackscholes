@@ -22,6 +22,11 @@ Where:
 Call options have a delta between 0 and 1, while Put options have a delta between -1 and 0. The closer the option's delta to -1 or 1, the deeper in the money the option is. Delta can be used to hedge an option position's exposure to the underlying's price changes by either buying or selling (depending on the option position, long call, long put, etc.) shares of the underlying asset multiplied by the delta.
 
 ### Gamma
+Gamma is a measure of the delta's change relative to the changes in the price of the underlying asset. If the price of the underlying asset increases by $1, the option's delta will change by the gamma ammount.
+
+<img src="https://latex.codecogs.com/gif.latex?\fn_jvn&space;\large&space;\Gamma&space;=\frac{\partial&space;\Delta&space;}{\partial&space;S}=\frac{\partial^{2}V}{\partial^{2}S}" title="\large \Gamma =\frac{\partial \Delta }{\partial S}=\frac{\partial^{2}V}{\partial^{2}S}" />
+
+Long options have a positive gamma. An option has a maximum gamma when it is at-the-money (option price equals the price of the underlying asset). However, Gamma decreases when an option is deep in-the-money or out-the-money.
 
 ### Theta
 
