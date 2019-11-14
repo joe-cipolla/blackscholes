@@ -1,6 +1,6 @@
 # blackscholes
 
-## basic implementation of black scholes option pricing model in python\
+## basic implementation of black scholes option pricing model in python
 The purpose of this model is to determine the price of a vanilla European
 call and put options (option that can only be exercised at the end of its
 maturity) based on price variation over time and assuming the asset has a
