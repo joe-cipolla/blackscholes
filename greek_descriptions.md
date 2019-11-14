@@ -46,7 +46,7 @@ Vegas is a measure of how much the option's price will change with a 1% change i
 
 <img src="https://latex.codecogs.com/gif.latex?\fn_jvn&space;\large&space;\textit{v}&space;=&space;\frac{\partial&space;V}{\partial&space;\sigma&space;}" title="\large \textit{v} = \frac{\partial V}{\partial \sigma }" />
 Where:
-<img src="https://latex.codecogs.com/gif.latex?\fn_jvn&space;\large&space;\sigma&space;=&space;\sum_{1}^{n}\frac{(V_{\mu&space;}-V_{n})^2}{n}" title="\large \sigma = \sum_{1}^{n}\frac{(V_{\mu }-V_{n})^2}{n}" />
+<img src="https://latex.codecogs.com/gif.latex?\fn_jvn&space;\large&space;\sigma&space;=&space;\frac{\sum_{i=1}^{n}(V_{\mu&space;}-V_{i})^2}{n}" title="\large \sigma = \frac{\sum_{i=1}^{n}(V_{\mu }-V_{i})^2}{n}" />
 
 All options have positive Vega. When option prices become more expensive (they have more extrinsic value), implied volatility increases. When option prices decrease (less extrinsic value), implied volatility falls. Vega is expressed as a money amount, rather than a decimal number. An increase in Vega usually means an increase in the option value (either call or put.
 
