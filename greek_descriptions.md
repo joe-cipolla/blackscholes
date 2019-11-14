@@ -11,8 +11,7 @@ The main option greeks that are most often used are:
 
 ## Option Greek Formulas
 ### Delta
-\$$a^2 + b^2 = c^2$$\
-- <img src="https://latex.codecogs.com/gif.latex?O_t=\text { Onset event at time bin } t " />
+\[\Delta =\frac{\partial V}{\partial S}\]
 
 ### Gamma
 
