@@ -11,11 +11,11 @@ The main option greeks that are most often used are:
 
 ## Option Greek Formulas
 ### Delta
-<img src="https://latex.codecogs.com/gif.latex?\fn_phv&space;\LARGE&space;\Delta&space;=\frac{\partial&space;V}{\partial&space;S}" title="\LARGE \Delta =\frac{\partial V}{\partial S}" />
-  Where:
-  <img src="https://latex.codecogs.com/gif.latex?\inline&space;\fn_phv&space;\partial&space;=&space;first\,&space;order\,&space;derivative" title="\partial = first\, order\, derivative" />
-  <img src="https://latex.codecogs.com/gif.latex?\inline&space;\fn_phv&space;V&space;=&space;option\,&space;price" title="V = option\, price" />
-  <img src="https://latex.codecogs.com/gif.latex?\inline&space;\fn_phv&space;S&space;=&space;underlying\,&space;asset's\,&space;price" title="S = underlying\, asset's\, price" />
+<img src="https://latex.codecogs.com/gif.latex?\fn_jvn&space;\LARGE&space;\Delta&space;=\frac{\partial&space;V}{\partial&space;S}" title="\LARGE \Delta =\frac{\partial V}{\partial S}" />
+Where:
+<img src="https://latex.codecogs.com/gif.latex?\inline&space;\fn_phv&space;\large&space;\partial&space;=&space;first\,&space;order\,&space;derivative" title="\large \partial = first\, order\, derivative" />
+<img src="https://latex.codecogs.com/gif.latex?\inline&space;\fn_phv&space;\large&space;V&space;=&space;option\,&space;price" title="\large V = option\, price" />
+<img src="https://latex.codecogs.com/gif.latex?\inline&space;\fn_phv&space;\large&space;S&space;=&space;underlying\,&space;asset's\,&space;price" title="\large S = underlying\, asset's\, price" />
 
 ### Gamma
 
