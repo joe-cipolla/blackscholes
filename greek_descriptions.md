@@ -13,9 +13,9 @@ The main option greeks that are most often used are:
 ### Delta
 <img src="https://latex.codecogs.com/gif.latex?\fn_phv&space;\LARGE&space;\Delta&space;=\frac{\partial&space;V}{\partial&space;S}" title="\LARGE \Delta =\frac{\partial V}{\partial S}" />
 Where:
-<img src="https://latex.codecogs.com/gif.latex?\inline&space;\fn_phv&space;\LARGE&space;\partial" title="\LARGE \partial" /> - first order derivative
+<img src="https://latex.codecogs.com/gif.latex?\inline&space;\fn_phv&space;\partial&space;=&space;first\,&space;order\,&space;derivative" title="\partial = first\, order\, derivative" />
 V - option price
-S - underlying asset's price 
+S - underlying asset's price
 
 ### Gamma
 
