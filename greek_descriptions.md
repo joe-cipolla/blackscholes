@@ -1,6 +1,3 @@
-<script async
-  src="//mathjax.rstudio.com/latest/MathJax.js?config=TeX-MML-AM_CHTML">
-</script>
 # Option Greek Descriptions
 
 ## What are Option Greeks?
@@ -14,7 +11,7 @@ The main option greeks that are most often used are:
 
 ## Option Greek Formulas
 ### Delta
-`$$a^2 + b^2 = c^2$$`
+\(a^2 + b^2 = c^2\)
 
 ### Gamma
 
