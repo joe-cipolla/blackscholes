@@ -51,4 +51,4 @@ Where:
 All options have positive Vega. When option prices become more expensive (they have more extrinsic value), implied volatility increases. When option prices decrease (less extrinsic value), implied volatility falls. Vega is expressed as a money amount, rather than a decimal number. An increase in Vega usually means an increase in the option value (either call or put.
 
 
-(latex generator)https://www.codecogs.com/latex/eqneditor.php
+[latex generator](https://www.codecogs.com/latex/eqneditor.php)
